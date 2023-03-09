@@ -13,7 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![1678398439287](image/README-template/1678398439287.png)
+![1678398902649](image/README/1678398902649.png)
 
 ## My process
 
